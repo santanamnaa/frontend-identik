@@ -1,4 +1,4 @@
-# WEB 3 IDENTIK ()
+# WEB 3 IDENTIK
 
 ![alt_text](https://github.com/user-attachments/assets/b71016e7-15e7-4dda-b644-9e083c0f20c6)
 
