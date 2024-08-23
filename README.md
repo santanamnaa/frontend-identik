@@ -1,5 +1,11 @@
 # WEB 3 IDENTIK ()
 
+![alt_text](https://github.com/user-attachments/assets/b71016e7-15e7-4dda-b644-9e083c0f20c6)
+
+## Simple Flow
+![alt_text](https://github.com/user-attachments/assets/782257c6-870e-453d-82eb-611329df32a8)
+
+
 ## Project Description:
 
 Identik is a decentralized identity platform designed to securely manage and store user data while generating ID addresses for seamless data integration. The primary goal of Identik is to offer a secure and decentralized solution for identity management, allowing users to easily integrate their personal information with various companies by providing a unique ID address. This platform is built using Motoko Backend and Vanilla JS Frontend and emphasizes security and privacy in handling user data.
