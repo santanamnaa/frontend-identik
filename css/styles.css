@@ -1,3 +1,4 @@
+/* index */
 body {
   font-family: Arial, sans-serif;
   background-color: #121212;
@@ -23,33 +24,50 @@ nav a {
 .hero {
   text-align: center;
   padding: 100px 20px;
-  background: #1e1e1e;
+  background: url("https://d41chssnpqdne.cloudfront.net/user_upload_by_module/chat_bot/files/31189019/kVTqwicHbgmbvAxT.png") no-repeat center center;
+  background-size: cover;
+  color: #ffffff;
 }
 
 .cta-button {
   display: inline-block;
   padding: 10px 20px;
-  background-color: #007BFF;
+  background-color: #007bff;
   color: #ffffff;
   text-decoration: none;
   border-radius: 5px;
+  margin-top: 20px;
 }
 
-.cta-button:hover {
-  background-color: #0056b3;
+.benefits,
+.features,
+.how-it-works {
+  padding: 50px 20px;
+  text-align: center;
+  background-color: #1e1e1e;
+}
+
+.benefit,
+.feature,
+.step1 {
+  top: 532px;
+  left: 48px;
+  width: 422px;
+  height: 140px;
+  background-color: #2d2d2d;
+  border-radius: 24px;
+}
+.step2 {
+  margin: 20px 0;
+}
+.step3 {
+  margin: 20px 0;
 }
 
 footer {
   text-align: center;
   padding: 20px;
   background-color: #1e1e1e;
-}
-body {
-  font-family: Arial, sans-serif;
-  background-color: #121212;
-  color: #ffffff;
-  margin: 0;
-  padding: 0;
 }
 
 .container {
@@ -95,7 +113,7 @@ input[type="checkbox"] {
 button {
   width: 100%;
   padding: 10px;
-  background-color: #007BFF;
+  background-color: #007bff;
   border: none;
   border-radius: 5px;
   color: white;
@@ -118,6 +136,6 @@ p {
 }
 
 a {
-  color: #007BFF;
+  color: #007bff;
   text-decoration: none;
 }
